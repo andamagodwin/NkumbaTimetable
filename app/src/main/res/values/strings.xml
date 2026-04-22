@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Nkumba Timetable</string>
+
+    <!-- Login / Register -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="welcome_message">Welcome to Nkumba University Timetable Management</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="manage_courses">Manage Courses</string>
+    <string name="manage_lecturers">Manage Lecturers</string>
+    <string name="manage_schedule">Manage Schedule</string>
+    <string name="view_timetable">View Timetable</string>
+    <string name="logout">Logout</string>
+    <string name="total_courses">Total Courses</string>
+    <string name="total_lecturers">Total Lecturers</string>
+    <string name="total_schedules">Total Schedules</string>
+
+    <!-- Courses -->
+    <string name="courses">Courses</string>
+    <string name="add_course">Add Course</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="course_code">Course Code</string>
+    <string name="course_name">Course Name</string>
+    <string name="credit_hours">Credit Hours</string>
+    <string name="department">Department</string>
+    <string name="course_description">Description</string>
+    <string name="no_courses">No courses added yet</string>
+
+    <!-- Lecturers -->
+    <string name="lecturers">Lecturers</string>
+    <string name="add_lecturer">Add Lecturer</string>
+    <string name="edit_lecturer">Edit Lecturer</string>
+    <string name="lecturer_name">Lecturer Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="specialization">Specialization</string>
+    <string name="no_lecturers">No lecturers added yet</string>
+
+    <!-- Schedule -->
+    <string name="schedule">Schedule</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="edit_schedule">Edit Schedule</string>
+    <string name="select_course">Select Course</string>
+    <string name="select_lecturer">Select Lecturer</string>
+    <string name="select_day">Select Day</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="room">Room / Venue</string>
+    <string name="no_schedules">No schedules added yet</string>
+
+    <!-- Timetable -->
+    <string name="timetable">Timetable</string>
+    <string name="weekly_timetable">Weekly Timetable</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="delete_message">Are you sure you want to delete this item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>Computer Science</item>
+        <item>Business Administration</item>
+        <item>Education</item>
+        <item>Engineering</item>
+        <item>Law</item>
+        <item>Medicine</item>
+        <item>Social Sciences</item>
+        <item>Arts and Design</item>
+    </string-array>
+</resources>

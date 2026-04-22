@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Nkumba University Branding: Blue & Yellow -->
+    <color name="primary">#003B7B</color>
+    <color name="primary_dark">#002452</color>
+    <color name="primary_light">#3565A3</color>
+    <color name="accent">#FFD100</color>
+    <color name="accent_dark">#C8A200</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <color name="background">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#D32F2F</color>
+
+    <color name="monday">#E3F2FD</color>
+    <color name="tuesday">#FFF8E1</color>
+    <color name="wednesday">#E8F5E9</color>
+    <color name="thursday">#F3E5F5</color>
+    <color name="friday">#FFF3E0</color>
+    <color name="saturday">#E0F7FA</color>
+</resources>
